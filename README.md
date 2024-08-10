@@ -1,4 +1,4 @@
-# E-commerce Machine Learning Projects
+# E-commerce Automated Machine Learning Project
 
 This repository contains two machine learning projects focused on optimizing e-commerce use cases using AutoML techniques. The projects aim to enhance the decision-making process in marketing strategies through A/B testing and to streamline the product categorization process using multi-label classification.
 
